@@ -46,3 +46,8 @@ This Code of Conduct applies to all course-related activities, discussions, assi
 This Code of Conduct is adapted for the IBM Full Stack Software Developer Certificate Course and is inspired by the principles of respectful and inclusive learning.
 
 For any questions or concerns related to this code of conduct, please contact the course instructors or administrators.
+
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at project-admin@example.com. All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+
+Once you've pasted that at the bottom, click the green "Commit changes" button at the bottom right to save it.
